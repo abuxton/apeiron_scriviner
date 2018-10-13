@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="241">
-            <Title>Mythology</Title>
-        </Document>
         <Document ID="42">
             <Title>Groups &amp; Factions</Title>
         </Document>
         <Document ID="242">
             <Title>Technology</Title>
         </Document>
-        <Document ID="101">
-            <Title>NPCs</Title>
-        </Document>
         <Document ID="208">
             <Title>House Rules</Title>
+        </Document>
+        <Document ID="101">
+            <Title>NPCs</Title>
         </Document>
         <Document ID="4">
             <Title>Campaign Guide</Title>
@@ -25,17 +22,17 @@
         <Document ID="23">
             <Title>Hooks</Title>
         </Document>
-        <Document ID="98">
-            <Title>Magic</Title>
-        </Document>
         <Document ID="45">
             <Title>Thematic Elements</Title>
         </Document>
-        <Document ID="0">
-            <Title>Player's Handbook</Title>
+        <Document ID="241">
+            <Title>Mythology</Title>
         </Document>
-        <Document ID="100">
-            <Title>Stories</Title>
+        <Document ID="98">
+            <Title>Magic</Title>
+        </Document>
+        <Document ID="41">
+            <Title>Places</Title>
         </Document>
         <Document ID="18">
             <Title>Setting</Title>
@@ -43,8 +40,8 @@
         <Document ID="131">
             <Title>Culture</Title>
         </Document>
-        <Document ID="41">
-            <Title>Places</Title>
+        <Document ID="100">
+            <Title>Stories</Title>
         </Document>
     </Documents>
 </SearchIndexes>

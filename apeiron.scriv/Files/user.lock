@@ -1,7 +1,7 @@
 platform=mac
-host=da-abuxton-mbp00
-user=adam buxton
-uuid=1DED36F9-456D-47D5-9E28-35535AFE5700
+host=home-abuxton-mba
+user=Adam Buxton
+uuid=7C939DCD-2AF9-427E-AC09-419E0F21A815
 app=Scrivener
-project_path=/Users/abuxton/src/abuxton/apeiron_scriviner/apeiron.scriv
+project_path=/Users/abuxton/src/abuxton/github/apeiron_scriviner/apeiron.scriv
 app_path=/Applications/Scrivener.app
